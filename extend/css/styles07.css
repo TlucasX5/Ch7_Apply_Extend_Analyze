@@ -1,7 +1,7 @@
 /*
-Author:
-Date:
-File Name: 
+Author: Suzanne Lucas
+Date: 03/27/24
+File Name: styles07.css
 */
 
 /* CSS Reset */
@@ -29,6 +29,10 @@ header {
 /* Style rules for main content  */
 main {
 	background-color: #fff;
+}
+
+.container {
+	display: flex;
 }
 
 aside {
